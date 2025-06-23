@@ -1,1 +1,7 @@
+# .gitattributes
 *.java linguist-language=Java
+.project linguist-detectable=false
+.classpath linguist-detectable=false
+.settings/** linguist-detectable=false
+bin/** linguist-detectable=false
+*.class linguist-detectable=false
